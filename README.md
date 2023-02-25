@@ -1,6 +1,6 @@
 # Frontend-Training-Tasks-Part-3
 
-### This repository describes part 3 of Starting point Front-end Training Tasks, You will find the other parts in <a href="https://github.com/Sh0aib-Ja0allah?tab=repositories">my GitHub Profile</a>.
+### This repository describes part 3 of Starting point Front-end Training Tasks, <br />You will find the other parts in <a href="https://github.com/Sh0aib-Ja0allah?tab=repositories">my GitHub Profile</a>.
 
 ## To Run this part and see the results follow please link : <br />
 
