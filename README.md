@@ -9,3 +9,5 @@
 Please find the attached Gif image “bouncing-face.gif” and build a similar animation using HTML and CSS only. 
 
 ![Design preview for the Sixth task which it's a Smile face moves with your mouse](./bouncing-face.gif)
+
+### Thanks.
