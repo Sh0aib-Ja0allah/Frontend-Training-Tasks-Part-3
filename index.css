@@ -90,8 +90,6 @@ body{
     margin: 2px 70px;
 }
 
-@import "compass/css3";
-
 @keyframes dance {
 	0%, 20%, 50%, 80%, 100% {
     transform: translateY(0);
